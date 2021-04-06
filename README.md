@@ -22,4 +22,3 @@ oc process -f apicurio-standalone-template.yml \
 
 See ArgoCD kustomize deployment here
 - https://github.com/eformat/argocd/tree/master/apicurio
-# apicurio-ocp
